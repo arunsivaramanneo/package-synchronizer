@@ -1,0 +1,7 @@
+<sync>
+    <DateTime>FILL UNIX TIMESTAMP HERE</DateTime>
+    <packages>
+        <package>adapta-gtk-theme</package>
+        <package>paper-icon-theme</package>
+    </packages>
+</sync>
